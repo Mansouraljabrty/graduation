@@ -1,0 +1,61 @@
+/* Target all paragraph */
+
+
+/* p {
+    color: red;
+    font-size: 30px;
+}
+
+.cl {
+
+    color: green;
+    font-size: 20px;
+
+} */
+
+
+/* div {
+    color: aliceblue;
+
+    Color Name.
+    background-color: red;
+
+    Color Hex Code.
+    background-color: #000000;
+
+    Red Green Blue Alpha Channel-
+    background-color: rgb(255 0 0 / 100%);
+
+
+
+    background-image: url("../css/download.jpg");
+    
+    background-repeat:;
+
+
+    Top Right Bottom Left
+    10px 10px 10px 10px  
+    padding:10px;        
+
+    Top Right Bottom Left
+    10px 20px 10px 20px  
+    padding:10px 20px;   
+
+    Top Right Bottom Left  
+    10px 20px 15px 20px    
+    padding:10px 20px 15px;
+    padding:0 0 10px ;     
+    padding-bottom: 10px;
+} */
+
+.m {
+
+    background-color: rgb(22, 136, 207);
+    padding: 10px;
+    width: 70%;
+    margin: auto;
+    /*border-width:10px;
+    border-color:red;
+    border-style:solid;*/
+    border: 10px solid red;
+}
